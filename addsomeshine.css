@@ -15,16 +15,19 @@ material-symbols-outlined {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 15px;
+    background-color: black;
+    color: white;
     } 
   
 .menu {
   border-right: 8px solid #232323;
+  padding: 15px;
+  font-size: 20px;
+  font-weight: 400;
 }
 
   .upper-base {
-    background: red;
-    border-bottom: 8px solid #232323;
+    border-bottom: 1px solid #232323;
     font-size: 8px;
     display: flex;
     justify-content: space-between;
@@ -32,7 +35,8 @@ material-symbols-outlined {
     margin-bottom: 60px;
   }
 
-  .upper-base h4 {
-     margin: 8px;
+  .upper-base h6 {
+     margin: 0px 25px;
+     padding: 30px 0px;
      color: white;
   }
