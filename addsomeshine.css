@@ -20,23 +20,38 @@ material-symbols-outlined {
     } 
   
 .menu {
-  border-right: 8px solid #232323;
+  border-right: 1px solid #232323;
   padding: 15px;
   font-size: 20px;
   font-weight: 400;
+}
+
+.menu-item {
+  padding-bottom: 12px;
+  margin-left: 50px;
+  margin-top: 12px;
+  margin-right: 110px;
+}
+
+.post-button {
+  border-radius: 5px;
 }
 
   .upper-base {
     border-bottom: 1px solid #232323;
     font-size: 8px;
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    margin-bottom: 60px;
+    margin-bottom: 475px;
   }
 
-  .upper-base h6 {
-     margin: 0px 25px;
-     padding: 30px 0px;
-     color: white;
+  .for-you {
+    width: 170px;
+    margin-left: 100px;
+    padding: 10px 16px;
+    margin-right: 150px;
+  }
+
+  .the-right-side {
+    margin-right: 70px;
   }
