@@ -35,7 +35,8 @@ material-symbols-outlined {
 
 .menu-item:hover {
   background-color: #108CDF;
-  border-radius: 60px;
+  /* border-radius: 60px;
+  text-align: ; */
 }
 
 .menu-item button {
