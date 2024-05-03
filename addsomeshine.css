@@ -35,13 +35,10 @@ material-symbols-outlined {
 
 .menu-item:hover {
   background-color: #108CDF;
-  border-bottom-left-radius: 9999px;
-  border-bottom-right-radius: 9999px;
-  border-top-left-radius: 9999px;
-  border-top-right-radius: 9999px;
+  
 }
 
-.menu-item button {
+/* .menu-item button {
   border-radius: 25px;
   font-size: 15px;
   height: 50px;
@@ -49,7 +46,7 @@ material-symbols-outlined {
   width: 210px;
   font-weight: 700;
   background-color: #108CDF;
-  border: none;
+  border: none; */
 }
 
   .upper-base {
