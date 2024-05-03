@@ -38,7 +38,7 @@ material-symbols-outlined {
   
 }
 
-/* .menu-item button {
+ .menu-item button {
   border-radius: 25px;
   font-size: 15px;
   height: 50px;
@@ -46,8 +46,8 @@ material-symbols-outlined {
   width: 210px;
   font-weight: 700;
   background-color: #108CDF;
-  border: none; */
-}
+  border: none; 
+} 
 
   .upper-base {
     border-bottom: 1px solid #232323;
