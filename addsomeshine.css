@@ -30,11 +30,23 @@ material-symbols-outlined {
   padding-bottom: 12px;
   margin-left: 50px;
   margin-top: 12px;
-  margin-right: 110px;
+  margin-right: 50px;
 }
 
-.post-button {
-  border-radius: 5px;
+.menu-item:hover {
+  background-color: #108CDF;
+  border-radius: 60px;
+}
+
+.menu-item button {
+  border-radius: 25px;
+  font-size: 15px;
+  height: 50px;
+  color: white;
+  width: 210px;
+  font-weight: 700;
+  background-color: #108CDF;
+  border: none;
 }
 
   .upper-base {
@@ -46,12 +58,13 @@ material-symbols-outlined {
   }
 
   .for-you {
-    width: 170px;
+    width: 130px;
     margin-left: 100px;
-    padding: 10px 16px;
-    margin-right: 150px;
+    padding: 10px 10px;
+    margin-right: 85px;
   }
 
   .the-right-side {
-    margin-right: 70px;
+    margin-left: 210px;
+    padding-right: 50px;
   }
