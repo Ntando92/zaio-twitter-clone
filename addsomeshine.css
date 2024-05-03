@@ -30,7 +30,14 @@ material-symbols-outlined {
   margin-left: 50px;
   margin-top: 12px;
   margin-right: 50px;
-
+  border-radius: 25px;
+  font-size: 15px;
+  height: 25px;
+  color: white;
+  width: 210px;
+  font-weight: 700;
+  background-color: #108CDF;
+  border: none; 
 } 
 
 .menu-item:hover {
