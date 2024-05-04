@@ -38,7 +38,12 @@ material-symbols-outlined {
   font-weight: 700;
   background-color: none;
   border: none; 
-} 
+}
+
+
+.menu-item-adjust {
+  padding-left: 25px;
+}
 
 .menu-item:hover {
   background-color: #180cbd;
