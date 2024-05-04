@@ -34,7 +34,6 @@ material-symbols-outlined {
   font-size: 15px;
   height: 25px;
   color: white;
-  width: 210px;
   font-weight: 700;
   background-color: none;
   border: none; 
@@ -48,6 +47,7 @@ material-symbols-outlined {
 
 .menu-item:hover {
   background-color: #180cbd;
+  cursor: pointer;
   
 }
 
