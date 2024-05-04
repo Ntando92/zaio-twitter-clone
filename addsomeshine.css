@@ -38,8 +38,8 @@ material-symbols-outlined {
   border: none; 
   text-align: center;
   display: flex;
-  align-items: center;
-  padding-left: 30px;
+  align-items: normal;
+  padding-left: 10px;
 }
 
 .menu-item-adjust {
@@ -51,7 +51,7 @@ material-symbols-outlined {
 } */
 
 .menu-item:hover {
-  background-color: #1ac1e2;
+  background-color: #66149c;
   cursor: pointer; 
 }
 
