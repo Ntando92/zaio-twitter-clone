@@ -27,9 +27,9 @@ material-symbols-outlined {
 }
 
 .menu-item {
-  margin-left: 50px;
+  /* margin-left: 50px;
   margin-top: 12px;
-  margin-right: 50px;
+  margin-right: 50px; */
   border-radius: 25px;
   font-size: 15px;
   color: white;
@@ -37,7 +37,6 @@ material-symbols-outlined {
   background-color: none;
   border: none; 
   text-align: center;
-  align-items: center;
 }
 
 
