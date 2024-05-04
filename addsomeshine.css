@@ -43,12 +43,12 @@ material-symbols-outlined {
 }
 
 
-/* .menu-item-adjust {
-  
-}  */
+.icon {
+  padding-right: 30px; 
+}
 
 .menu-item:hover {
-  background-color: #0a282e;
+  background-color: #1ac1e2;
   cursor: pointer;
   
 }
