@@ -37,12 +37,14 @@ material-symbols-outlined {
   background-color: none;
   border: none; 
   text-align: center;
+  display: flex;
+  justify-content: space-between;
 }
 
 
-.menu-item-adjust {
-  padding-bottom: 45px;
-} 
+/* .menu-item-adjust {
+  
+}  */
 
 .menu-item:hover {
   background-color: #1792a8;
