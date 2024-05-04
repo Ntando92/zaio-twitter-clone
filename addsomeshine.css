@@ -75,7 +75,7 @@ material-symbols-outlined {
     font-size: 8px;
     display: flex;
     align-items: center;
-    margin-bottom: 475px;
+    padding-bottom: 475px;
   }
 
   .for-you {
