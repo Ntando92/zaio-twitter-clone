@@ -16,6 +16,7 @@ material-symbols-outlined {
     justify-content: space-between;
     background-color: black;
     color: white;
+    align-items: center;
     } 
   
 .menu {
@@ -75,7 +76,6 @@ material-symbols-outlined {
     font-size: 8px;
     display: flex;
     align-items: center;
-    padding-bottom: 475px;
   }
 
   .for-you {
