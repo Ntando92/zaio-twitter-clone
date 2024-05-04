@@ -27,9 +27,9 @@ material-symbols-outlined {
 }
 
 .menu-item {
-  /* margin-left: 50px;
+  margin-left: 50px;
   margin-top: 12px;
-  margin-right: 50px; */
+  margin-right: 50px;
   border-radius: 25px;
   font-size: 15px;
   color: white;
@@ -40,9 +40,9 @@ material-symbols-outlined {
 }
 
 
-/* .menu-item-adjust {
-  padding: 5px 15px;
-} */
+menu-item-adjust {
+  margin-bottom: 10px;
+} 
 
 .menu-item:hover {
   background-color: #180cbd;
