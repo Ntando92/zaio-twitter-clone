@@ -35,16 +35,15 @@ material-symbols-outlined {
   height: 25px;
   color: white;
   font-weight: 700;
-  padding: 5px 15px;
   background-color: none;
   border: none; 
   text-align: center;
 }
 
 
-/* .menu-item-adjust {
-  padding-left: 25px;
-} */
+.menu-item-adjust {
+  padding: 5px 15px;
+}
 
 .menu-item:hover {
   background-color: #180cbd;
