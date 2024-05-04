@@ -42,15 +42,17 @@ material-symbols-outlined {
   padding-left: 30px;
 }
 
-
-.icon {
-  padding-right: 30px; 
+.menu-item-adjust {
+  padding-left: 10px; 
 }
+
+/* .icon {
+  
+} */
 
 .menu-item:hover {
   background-color: #1ac1e2;
-  cursor: pointer;
-  
+  cursor: pointer; 
 }
 
  /* .menu-item button1 {
