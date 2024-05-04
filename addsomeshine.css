@@ -36,12 +36,12 @@ material-symbols-outlined {
   color: white;
   width: 210px;
   font-weight: 700;
-  background-color: #108CDF;
+  background-color: none;
   border: none; 
 } 
 
 .menu-item:hover {
-  background-color: #108CDF;
+  background-color: #180cbd;
   
 }
 
