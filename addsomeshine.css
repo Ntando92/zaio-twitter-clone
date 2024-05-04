@@ -52,6 +52,7 @@ material-symbols-outlined {
 
 .menu-item:hover {
   background-color: #66149c;
+  background-size: contain;
   cursor: pointer; 
 }
 
