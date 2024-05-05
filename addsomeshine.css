@@ -34,6 +34,7 @@ material-symbols-outlined {
   margin-right: 10px;
   border-radius: 25px;
   font-size: 15px;
+  max-width: 100%;
   color: white;
   font-weight: 700;
   background-color: none;
@@ -80,6 +81,10 @@ material-symbols-outlined {
     padding-top: 0px;
     margin-left: 0px;
     padding-left: 0px;
+  }
+
+  .upper-base i {
+    margin-right: 10px;
   }
 
   .for-you {
