@@ -54,7 +54,7 @@ material-symbols-outlined {
 } */
 
 .menu-item:hover {
-  background-color: #0ac3f1;
+  background-color: #001b22;
   cursor: pointer; 
 }
 
@@ -89,6 +89,6 @@ material-symbols-outlined {
   }
 
   .the-right-side {
-    margin-left: 120px;
+    margin-left: 180px;
     padding-right: 50px;
   }
