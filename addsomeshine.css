@@ -54,7 +54,7 @@ material-symbols-outlined {
 } */
 
 .menu-item:hover {
-  background-color: #f1cf0a;
+  background-color: #0ac3f1;
   cursor: pointer; 
 }
 
@@ -71,10 +71,10 @@ material-symbols-outlined {
 
   .upper-base {
     border-bottom: 1px solid #232323;
-    border-width: 190px;
     font-size: 8px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     margin-top: 0px;
     padding-top: 0px;
     margin-left: 0px;
@@ -89,6 +89,6 @@ material-symbols-outlined {
   }
 
   .the-right-side {
-    margin-left: 20px;
+    margin-left: 120px;
     padding-right: 50px;
   }
