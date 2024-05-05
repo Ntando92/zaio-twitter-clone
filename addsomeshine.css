@@ -57,7 +57,7 @@ material-symbols-outlined {
   cursor: pointer; 
 }
 
- .menu-item button1 {
+ #post-button{
   border-radius: 25px;
   font-size: 15px;
   height: 25px;
