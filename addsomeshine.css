@@ -41,6 +41,7 @@ material-symbols-outlined {
   text-align: center;
   display: flex;
   padding-left: 10px;
+  align-items: center;
 }
 
 .menu-item-adjust {
