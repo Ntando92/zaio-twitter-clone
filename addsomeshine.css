@@ -74,6 +74,7 @@ material-symbols-outlined {
     font-size: 8px;
     display: flex;
     align-items: center;
+    text-align: center;
     justify-content: space-between;
     margin-top: 0px;
     padding-top: 0px;
@@ -89,6 +90,6 @@ material-symbols-outlined {
   }
 
   .the-right-side {
-    margin-left: 180px;
+    margin-left: 230px;
     padding-right: 50px;
   }
