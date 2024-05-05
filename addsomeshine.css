@@ -40,14 +40,11 @@ material-symbols-outlined {
   border: none; 
   text-align: center;
   display: flex;
-  align-items: normal;
   padding-left: 10px;
-  background-size: contain;
 }
 
 .menu-item-adjust {
   padding-left: 10px; 
-  max-width: 100%;
 }
 
 /* .icon {
