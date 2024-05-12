@@ -94,11 +94,11 @@ material-symbols-outlined {
     margin-right: 85px;
   }
 
-  .input-tweet span {
-    margin-top: 45px;
-    margin-bottom: 45px;
+  .input-tweet {
+    padding-top: 10px;
+    padding-bottom: 10px;
     font-size: 25px;
-    color:rgb(113 118 123) ;
+    color:rgb(113 118 123)a ;
   }
 
   .the-right-side {
