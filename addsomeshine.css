@@ -69,7 +69,7 @@ material-symbols-outlined {
 }
 
 .middle-section {
-  position: absolute;
+  position: relative;
   top: 5%;
 }
 
