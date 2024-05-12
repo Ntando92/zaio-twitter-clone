@@ -102,8 +102,9 @@ material-symbols-outlined {
   }
 
   .input-tweet img {
-    height: 3px;
-    width: 3px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
   }
   
   .icon-gang {
