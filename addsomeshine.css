@@ -30,7 +30,7 @@ material-symbols-outlined {
 
 .menu-item {
   margin-left: 50px;
-  margin-top: 12px;
+  margin-top: 10px;
   margin-right: 10px;
   border-radius: 25px;
   font-size: 20px;
@@ -40,7 +40,7 @@ material-symbols-outlined {
   border: none; 
   text-align: center;
   display: flex;
-  padding: 10px;
+  padding: 12px;
   align-items: center;
 }
 
@@ -68,6 +68,7 @@ material-symbols-outlined {
   background-color: #108CDF;
   border: none; 
   margin-top: 15px;
+  margin-left: 20px;
 }
 
 
