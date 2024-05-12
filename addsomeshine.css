@@ -102,6 +102,7 @@ material-symbols-outlined {
     padding-bottom: 10px;
     font-size: 25px;
     color:rgb(113 118 123);
+    border-bottom: 1px solid #232323;
   }
 
   .input-tweet img {
