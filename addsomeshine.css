@@ -42,7 +42,6 @@ material-symbols-outlined {
   display: flex;
   padding-left: 10px;
   align-items: center;
-  width: fit-content;
 }
 
 .menu-item-adjust {
@@ -54,7 +53,8 @@ material-symbols-outlined {
 } */
 
 .menu-item:hover {
-  background-color: #be6cf1;
+  background-color: #1e052e;
+  width: fit-content;
   cursor: pointer; 
 }
 
@@ -67,11 +67,6 @@ material-symbols-outlined {
   font-weight: 700;
   background-color: #108CDF;
   border: none; 
-}
-
-.middle-section {
-  position: relative;
-  top: 5%;
 }
 
 
@@ -97,6 +92,12 @@ material-symbols-outlined {
     margin-left: 100px;
     padding: 10px 10px;
     margin-right: 85px;
+  }
+
+  .input-tweet span {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 15px;
   }
 
   .the-right-side {
