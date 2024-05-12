@@ -68,6 +68,7 @@ material-symbols-outlined {
   font-weight: 700;
   background-color: #108CDF;
   border: none; 
+  padding: 15px 0px;
 }
 
 
@@ -112,6 +113,11 @@ material-symbols-outlined {
   
   .icon-gang {
     padding-top: 6px;
+  }
+
+  .icon-gang i {
+    padding: 15px;
+    color: #1d9bf0;
   }
 
   .the-right-side {
