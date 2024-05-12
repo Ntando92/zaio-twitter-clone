@@ -35,12 +35,13 @@ material-symbols-outlined {
   border-radius: 25px;
   font-size: 20px;
   color: white;
-  font-weight: 700;
+  font-weight: 400;
   background-color: none;
   border: none; 
   text-align: center;
   display: flex;
   padding-left: 10px;
+  padding-right: 10px;
   align-items: center;
 }
 
@@ -61,9 +62,9 @@ material-symbols-outlined {
  #post-button {
   border-radius: 25px;
   font-size: 15px;
-  height: 25px;
+  height: 45px;
   color: white;
-  width: 210px;
+  width: 180px;
   font-weight: 700;
   background-color: #108CDF;
   border: none; 
@@ -103,7 +104,7 @@ material-symbols-outlined {
 
   .input-tweet img {
     height: 50px;
-    width: 50px;
+    width: 30px;
     border-radius: 50px;
   }
   
