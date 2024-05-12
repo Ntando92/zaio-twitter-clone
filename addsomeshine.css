@@ -42,6 +42,7 @@ material-symbols-outlined {
   display: flex;
   padding-left: 10px;
   align-items: center;
+  width: fit-content;
 }
 
 .menu-item-adjust {
