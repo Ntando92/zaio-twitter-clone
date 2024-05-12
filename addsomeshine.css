@@ -66,11 +66,13 @@ material-symbols-outlined {
   font-weight: 700;
   background-color: #108CDF;
   border: none; 
-} 
+}
 
 .middle-section {
-  height: 2px;
+  position: absolute;
+  top: 5%;
 }
+
 
   .upper-base {
     border-bottom: 1px solid #232323;
