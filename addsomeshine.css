@@ -106,7 +106,7 @@ material-symbols-outlined {
   .input-tweet img {
     height: 50px;
     width: 40px;
-    border-radius: 50px;
+    border-radius: 100%;
     margin-right: 15px;
   }
   
