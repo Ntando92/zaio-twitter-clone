@@ -92,7 +92,8 @@ material-symbols-outlined {
     width: 130px;
     margin-left: 100px;
     padding: 10px 10px;
-    margin-right: 85px;
+    margin-top: 10px;
+    margin-right: 45px;
   }
 
   .input-tweet {
@@ -104,8 +105,9 @@ material-symbols-outlined {
 
   .input-tweet img {
     height: 50px;
-    width: 30px;
+    width: 40px;
     border-radius: 50px;
+    padding-right: 15px;
   }
   
   .icon-gang {
