@@ -122,12 +122,16 @@ material-symbols-outlined {
 
   .show-posts {
     text-align: center;
-    color:crimson;
+    color:rgb(32, 84, 94);
+  }
+
+  .show-posts p {
+    padding: 10px;
   }
 
   .show-posts:hover {
-    background-color: aqua;
-    opacity: 35%;
+    background-color: rgba(46, 46, 46, 0.911);
+    opacity: 75%;
   }
 
   .the-right-side {
