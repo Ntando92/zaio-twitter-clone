@@ -121,9 +121,7 @@ material-symbols-outlined {
   }
 
   .show-posts {
-    display: flex;
-    justify-content: space-between;
-    align-items:center;
+    text-align: center;
     text-decoration: crimson;
   }
 
