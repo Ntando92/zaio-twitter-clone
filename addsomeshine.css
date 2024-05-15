@@ -124,6 +124,7 @@ material-symbols-outlined {
     display: flex;
     justify-content: space-between;
     align-items:center;
+    text-decoration: crimson;
   }
 
   .show-posts:hover {
