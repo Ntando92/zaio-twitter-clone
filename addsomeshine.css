@@ -120,6 +120,17 @@ material-symbols-outlined {
     color: #1d9bf0;
   }
 
+  .show-posts {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+  }
+
+  .show-posts:hover {
+    background-color: aqua;
+    opacity: 35%;
+  }
+
   .the-right-side {
     margin-left: 230px;
     padding-right: 50px;
