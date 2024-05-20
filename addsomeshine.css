@@ -106,7 +106,7 @@ material-symbols-outlined {
 
   .input-tweet img {
     height: 50px;
-    width: 40px;
+    width: 45px;
     border-radius: 100%;
     margin-right: 15px;
   }
@@ -131,7 +131,7 @@ material-symbols-outlined {
 
   .show-posts:hover {
     background-color: rgba(46, 46, 46, 0.911);
-    opacity: 25%;
+    opacity: 95%;
   }
 
   .the-right-side {
