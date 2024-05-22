@@ -50,7 +50,7 @@ material-symbols-outlined {
 } */
 
 .menu-item:hover {
-  background-color: #071d07;
+  background-color: #c98013;
   border-radius: 30px;
   width: fit-content;
   cursor: pointer; 
