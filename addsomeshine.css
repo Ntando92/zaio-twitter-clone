@@ -26,8 +26,6 @@ material-symbols-outlined {
   padding-bottom: 15px;
   font-size: 20px;
   font-weight: 400;
-  display: flex;
-  justify-content: left;
 }
 
 .menu-item {
@@ -60,7 +58,7 @@ material-symbols-outlined {
 
 .button-1 {
   display: flex;
-  justify-content: left;
+  justify-content: center;
 }
 
  #post-button {
