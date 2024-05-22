@@ -38,6 +38,7 @@ material-symbols-outlined {
   border: none; 
   text-align: center;
   display: flex;
+  align-items: center;
   padding: 10px;
 }
 
@@ -50,7 +51,7 @@ material-symbols-outlined {
 } */
 
 .menu-item:hover {
-  background-color: #c98013;
+  background-color: #6e0577;
   border-radius: 30px;
   width: fit-content;
   cursor: pointer; 
@@ -85,6 +86,7 @@ material-symbols-outlined {
   height: 50px;
   width: 45px;
   border-radius: 100%;
+  margin-right: 0px;
 }
 
 #profile-tab-name {
