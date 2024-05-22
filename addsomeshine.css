@@ -77,6 +77,8 @@ material-symbols-outlined {
 .profile-tab {
   padding: 15px;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .profile-tab img {
