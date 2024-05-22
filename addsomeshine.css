@@ -144,9 +144,14 @@ material-symbols-outlined {
     padding: 10px;
   }
 
+  .show-posts p:hover {
+    text-transform: none;
+    text-decoration: none;
+  }
+
   .show-posts:hover {
     background-color: rgba(46, 46, 46, 0.911);
-    opacity: 5%;
+    opacity: 15%;
   }
 
   .the-right-side {
