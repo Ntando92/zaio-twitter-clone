@@ -68,7 +68,6 @@ material-symbols-outlined {
   border: none; 
   margin-top: 15px;
   margin-left: 20px;
-  display: flex;
 }
 
 .profile-tab img {
@@ -78,6 +77,15 @@ material-symbols-outlined {
   margin-right: 15px;
 }
 
+#profile-tab-name {
+ font-size: 14px;
+ font-weight: 600;
+}
+
+#profile-tab-name-tag {
+ font-size: 14px;
+ color: rgb(113, 118, 123);
+}
 .profile-tab p {
 
 }
@@ -116,7 +124,7 @@ material-symbols-outlined {
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: 25px;
-    color:rgb(113 118 123);
+    color:rgb(113, 118, 123);
     border-bottom: 1px solid #232323;
   }
 
