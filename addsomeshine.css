@@ -58,6 +58,11 @@ material-symbols-outlined {
   cursor: pointer; 
 }
 
+.button-1 {
+  display: flex;
+  justify-content: left;
+}
+
  #post-button {
   border-radius: 25px;
   font-size: 15px;
