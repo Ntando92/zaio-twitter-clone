@@ -50,7 +50,7 @@ material-symbols-outlined {
 } */
 
 .menu-item:hover {
-  background-color: #06293d;
+  background-color: #07b307;
   border-radius: 30px;
   width: fit-content;
   cursor: pointer; 
@@ -77,7 +77,6 @@ material-symbols-outlined {
 .profile-tab {
   padding: 15px;
   display: flex;
-  justify-content: space-between;
 }
 
 .profile-tab img {
