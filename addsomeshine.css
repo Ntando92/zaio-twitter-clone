@@ -52,7 +52,7 @@ material-symbols-outlined {
 } */
 
 .menu-item:hover {
-  background-color: #178acc;
+  background-color: #06293d;
   border-radius: 30px;
   width: fit-content;
   cursor: pointer; 
