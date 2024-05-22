@@ -161,6 +161,7 @@ material-symbols-outlined {
 
   .show-posts p {
     padding: 10px;
+    color: #1a89d5;
   }
 
   .show-posts:hover {
@@ -169,10 +170,6 @@ material-symbols-outlined {
     text-decoration-color: #1a89d5;
   }
 
-  .show-posts p:hover {
-    opacity: 100%;
-    color: #1a89d5; 
-  }
 
   .the-right-side {
     margin-left: 230px;
