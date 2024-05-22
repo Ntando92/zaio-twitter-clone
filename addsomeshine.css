@@ -26,6 +26,7 @@ material-symbols-outlined {
   padding-bottom: 15px;
   font-size: 20px;
   font-weight: 400;
+  display: flex;
   justify-content: left;
 }
 
@@ -51,7 +52,7 @@ material-symbols-outlined {
 } */
 
 .menu-item:hover {
-  background-color: #cc1796;
+  background-color: #178acc;
   border-radius: 30px;
   width: fit-content;
   cursor: pointer; 
