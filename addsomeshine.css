@@ -26,6 +26,7 @@ material-symbols-outlined {
   padding-bottom: 15px;
   font-size: 20px;
   font-weight: 400;
+  justify-content: left;
 }
 
 .menu-item {
@@ -39,7 +40,6 @@ material-symbols-outlined {
   text-align: center;
   display: flex;
   padding: 10px;
-  align-items: flex-start;
 }
 
 .menu-item-adjust {
@@ -72,6 +72,9 @@ material-symbols-outlined {
 
 .profile-tab {
   padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .profile-tab img {
