@@ -80,6 +80,7 @@ material-symbols-outlined {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  text-align: center;
 }
 
 .profile-tab img {
