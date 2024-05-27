@@ -91,6 +91,10 @@ material-symbols-outlined {
   margin-left: 15px;
 }
 
+.profile-tab i {
+  margin-left: 15px;
+}
+
 #profile-tab-name {
  font-size: 14px;
  font-weight: 600;
