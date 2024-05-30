@@ -182,6 +182,7 @@ material-symbols-outlined {
 
   .the-trend-side {
     margin-left: 130px;
+    display: flex;
   }
 
   .search-tab {
@@ -191,4 +192,20 @@ material-symbols-outlined {
 
   .search-tab input {
     background-color: rgb(32, 35, 39);
+  }
+
+  .subscribe-premium {
+    border-radius: 15%;
+    border: 1px solid #232323;
+    padding: 5px;
+  }
+
+  .subscribe-premium h2 {
+    padding: 3px;
+  }
+
+  .subscribe-button {
+    font-weight: 700;
+    background-color: #108CDF;
+    height: 45px;
   }
