@@ -81,6 +81,7 @@ material-symbols-outlined {
   justify-content: space-between;
   align-items: center;
   text-align: center;
+  border-radius: 55%;
 }
 
 .profile-tab img {
@@ -179,7 +180,12 @@ material-symbols-outlined {
   }
 
 
-  .the-right-side {
+  .the-trend-side {
     margin-left: 230px;
     padding-right: 50px;
+  }
+
+  .search-tab {
+    border: 1px solid #e70909;
+    background-color: rgb(32 35 39);
   }
