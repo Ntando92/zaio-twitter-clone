@@ -186,5 +186,9 @@ material-symbols-outlined {
 
   .search-tab {
     border: 1px solid #e70909;
-    background-color: rgb(32 35 39);
+    background-color: rgb(32, 35, 39);
+  }
+
+  .search-tab input {
+    background-color: rgb(32, 35, 39);
   }
