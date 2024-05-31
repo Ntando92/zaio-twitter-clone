@@ -81,7 +81,7 @@ material-symbols-outlined {
   justify-content: space-evenly;
   align-items: center;
   text-align: center;
-  border-radius: 25%;
+  border-radius: 30px;
 }
 
 .profile-tab img {
