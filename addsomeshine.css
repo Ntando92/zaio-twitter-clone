@@ -184,16 +184,20 @@ material-symbols-outlined {
   .search-tab {
     border: 1px solid #1f09e7;
     background-color: rgb(32, 35, 39);
-    border-radius: 50%;
+    border-top-left-radius: 50%;
     display: flex;
   }
 
   .search-tab input {
     background-color: rgb(32, 35, 39);
+    border: none;
   }
 
   .subscribe-premium {
-    border-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
     border: 1px solid #232323;
     margin: 5px;
   }
@@ -206,4 +210,5 @@ material-symbols-outlined {
     font-weight: 700;
     background-color: #108CDF;
     height: 45px;
+    border: none:
   }
