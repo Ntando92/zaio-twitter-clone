@@ -182,8 +182,10 @@ material-symbols-outlined {
 
 
   .search-tab {
-    border: 1px solid #e70909;
+    border: 1px solid #1f09e7;
     background-color: rgb(32, 35, 39);
+    border-radius: 25%;
+    display: flex;
   }
 
   .search-tab input {
@@ -193,7 +195,7 @@ material-symbols-outlined {
   .subscribe-premium {
     border-radius: 15%;
     border: 1px solid #232323;
-    padding: 5px;
+    margin: 5px;
   }
 
   .subscribe-premium h2 {
