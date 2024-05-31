@@ -107,6 +107,10 @@ material-symbols-outlined {
  color: rgb(113, 118, 123);
 }
 
+.profile-tab p {
+  margin-bottom: 15px;
+}
+
 .profile-tab:hover {
   background-color: aqua;
 }
