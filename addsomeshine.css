@@ -184,7 +184,7 @@ material-symbols-outlined {
   .search-tab {
     border: 1px solid #1f09e7;
     background-color: rgb(32, 35, 39);
-    border-radius: 25%;
+    border-radius: 50%;
     display: flex;
   }
 
@@ -193,7 +193,7 @@ material-symbols-outlined {
   }
 
   .subscribe-premium {
-    border-radius: 15%;
+    border-radius: 50%;
     border: 1px solid #232323;
     margin: 5px;
   }
