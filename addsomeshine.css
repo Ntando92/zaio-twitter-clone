@@ -194,10 +194,7 @@ material-symbols-outlined {
   }
 
   .subscribe-premium {
-    border-bottom-left-radius: 50%;
-    border-bottom-right-radius: 50%;
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%;
+    border-radius: 30px;
     border: 1px solid #232323;
     margin: 5px;
   }
@@ -208,6 +205,7 @@ material-symbols-outlined {
 
   .subscribe-button {
     font-weight: 700;
+    color: white;
     background-color: #108CDF;
     height: 45px;
     border: none;
